@@ -1,4 +1,5 @@
 # EventHorizon
+This is a library to fake a gps location on iOS
 
 [![CI Status](http://img.shields.io/travis/Paulo Mendes/EventHorizon.svg?style=flat)](https://travis-ci.org/Paulo Mendes/EventHorizon)
 [![Version](https://img.shields.io/cocoapods/v/EventHorizon.svg?style=flat)](http://cocoapods.org/pods/EventHorizon)
@@ -27,3 +28,6 @@ Paulo Mendes, paulo.mendes87@gmail.com
 ## License
 
 EventHorizon is available under the MIT license. See the LICENSE file for more info.
+
+
+
