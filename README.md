@@ -8,9 +8,19 @@ This is a library to fake a gps location on iOS
 
 ## Usage
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+To start EventHorizon in your app just do
 
-## Requirements
+```objc
+[[EventHorizon instance] enable];
+```
+
+For now, your CLLocationManager will send update locations only when you call
+
+```objc
+- (void)fakeLocation:(CLLocation *)fakeLocation
+```
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Installation
 
